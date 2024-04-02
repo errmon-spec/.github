@@ -2,7 +2,7 @@
 
 | Componente                     | Repositório                                |
 |--------------------------------|---------------------------------------------|
-| Agente JavaScript: `errmon.js`                | TODO     |
+| Agente JavaScript: `errmon.js`                | <https://github.com/errmon-spec/agent.js>     |
 | Agente Ruby: `errmon.rb`               | TODO     |
 | Frontend (SPA)                 | <https://github.com/errmon-spec/frontend>     |
 | Microsserviço: API de Itens   | <https://github.com/errmon-spec/items-api>    |
